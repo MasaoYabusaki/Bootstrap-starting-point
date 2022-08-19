@@ -1,0 +1,26 @@
+.flex-right{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.flex-left{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.flex-center{
+    display: flex;
+    justify-content: center;
+}
+
+.bg-primary{
+    background-color: aqua;
+}
+
+.bg-info{
+    background-color: aquamarine;
+}
+
+.font-primary{
+    font-family: 'robot, sans-sarif';
+}
